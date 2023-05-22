@@ -6,6 +6,7 @@ TagManager:
   tags:
   - nengach
   - enemy
+  - Lose
   layers:
   - Default
   - TransparentFX

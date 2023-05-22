@@ -8,5 +8,4 @@ public class startGame : MonoBehaviour
     {
         Application.LoadLevel("level1");
     }
-    
 }
